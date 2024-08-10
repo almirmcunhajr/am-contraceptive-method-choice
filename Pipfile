@@ -11,6 +11,9 @@ seaborn = "*"
 numpy = "*"
 scikit-learn = "*"
 imblearn = "*"
+scikit-posthocs = "*"
+flask = "*"
+graphviz = "*"
 
 [dev-packages]
 ipykernel = "*"
